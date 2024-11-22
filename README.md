@@ -1,7 +1,7 @@
 <h4 align="center">As-Salamu Alaykum (السلام عليكم)</h4>
-<h1 align="center"> 👋 Hi, I’m Musfique! </h1>
+<h1 align="center">  Hi, I’m Musfique! </h1>
 
-<!--### 🎓 *Computer Science Enthusiast*-->
+<!--### 🎓 *Computer Science Enthusiast*  👋-->
 
 ### 🔍 About Me
 - 🎓 Currently pursuing a **Bachelor's in Computer Science & Engineering** at **Pundra University of Science & Technology,Bogura**.
