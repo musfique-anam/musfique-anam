@@ -6,7 +6,6 @@
 ### 🔍 About Me
 - 🎓 Currently pursuing a **Bachelor's in Computer Science & Engineering** 
 -  🚀 At **Pundra University of Science & Technology,Bogura**.
-
 -  💻 Passionate about **programming**, **problem-solving.**
 
 
@@ -14,8 +13,8 @@
 - **Languages**: C, C++, Java
 
 ### 📫 Let's Connect!
-- [LinkedIn](https://www.linkedin.com/in/musfique-anam/)  
-- musfique.contact@gmail.com 
+- [LinkedIn](https://www.linkedin.com/in/musfique-anam/)
+
 
 ### 🎯 Fun Facts
 - 🎯 I love solving puzzles like Rubik's Cube (3x3).  
@@ -31,6 +30,8 @@
 
 
 <!---
+- - musfique.contact@gmail.com 
+
 - [Portfolio](https://yourportfolio.com) 
 
 
