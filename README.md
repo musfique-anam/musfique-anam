@@ -1,5 +1,5 @@
 <h1 align="center">As-Salamu Alaykum (السلام عليكم)</h1>
-<h2 align="center"> 👋 Hi, I’m Musfique! </h2>
+<!--<h2 align="center"> 👋 Hi, I’m Musfique! </h2>
 
 <!--### 🎓 *Computer Science Enthusiast*-->
 
