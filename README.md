@@ -15,7 +15,7 @@
 
 ### 📫 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/musfique-anam/)  
-- md.musfiqueanam@gmail.com 
+- musfique.contact@gmail.com 
 
 ### 🎯 Fun Facts
 - 🎯 I love solving puzzles like Rubik's Cube (3x3).  
