@@ -1,4 +1,4 @@
-<h3 align="center">As-Salamu Alaykum (السلام عليكم)</h3>
+<h4 align="center">As-Salamu Alaykum (السلام عليكم)</h4>
 <h1 align="center"> 👋 Hi, I’m Musfique! </h1>
 
 <!--### 🎓 *Computer Science Enthusiast*-->
