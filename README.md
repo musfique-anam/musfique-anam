@@ -14,6 +14,7 @@
 
 ### 📫 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/musfique-anam/)
+-  musfique.contact@gmail.com 
 
 
 ### 🎯 Fun Facts
@@ -30,7 +31,7 @@
 
 
 <!---
-- - musfique.contact@gmail.com 
+- 
 
 - [Portfolio](https://yourportfolio.com) 
 
