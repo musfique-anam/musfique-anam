@@ -4,6 +4,10 @@
 
 - 😄 Pronouns: Ananto
 
+- ## 🎯 Fun Facts
+- 🎯 I love solving puzzles like Rubik's Cubes (3x3).  
+- ⚡ Outside of coding, I enjoy exploring new technologies.
+
 
 <!---
 - 💞️ I’m looking to collaborate on ...
