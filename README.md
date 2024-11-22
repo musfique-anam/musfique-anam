@@ -5,7 +5,7 @@
 
 ### 🔍 About Me
 - 🎓 Currently pursuing a **Bachelor's in Computer Science & Engineering** 
--  At **Pundra University of Science & Technology,Bogura**.
+-  🚀 At **Pundra University of Science & Technology,Bogura**.
 
 -  💻 Passionate about **programming**, **problem-solving.**
 
