@@ -1,4 +1,4 @@
-## 👋 Hi, I’m @musfique-anam
+<h1 align="center"> 👋 Hi, I’m Musfique! </h1>
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning 
 
