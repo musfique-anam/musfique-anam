@@ -18,7 +18,7 @@
 
 
 ### 🎯 Fun Facts
-- 🎯 I love solving puzzles like Rubik's Cube (3x3).  
+- 🎯 I love solving puzzles like Rubik's Cube (3x3), Pyraminx.  
 - ⚡ Outside of coding, I enjoy exploring new skills.
 
 <br>😊 Nickname : **Ananto**</br>
