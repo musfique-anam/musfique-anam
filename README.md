@@ -27,6 +27,7 @@
  📍 Based in **Bangladesh**
 
 🌱 _"Always learning and growing."_ 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=musfique-anam)](https://git.io/streak-stats)
 
