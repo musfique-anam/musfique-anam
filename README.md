@@ -28,7 +28,7 @@
 
 🌱 _"Always learning and growing."_ 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=your-username)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=musfique-anam)](https://git.io/streak-stats)
 
 <!---
 - 
