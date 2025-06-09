@@ -5,13 +5,10 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=musfique-anam&color=blue&style=flat)
 
-
-
 ### 🔍 About Me
 - 🎓 Currently pursuing a **Bachelor's in Computer Science & Engineering** 
 -  🚀 At **Pundra University of Science & Technology,Bogura**.
 <!---  💻 Passionate about **programming**, **problem-solving.** -->
-
 
 ### 🛠️ Tech Stack
 <!--- **Languages**: C, C++, Java -->
