@@ -10,7 +10,7 @@
 ### 🔍 About Me
 - 🎓 Currently pursuing a **Bachelor's in Computer Science & Engineering** 
 -  🚀 At **Pundra University of Science & Technology,Bogura**.
--  💻 Passionate about **programming**, **problem-solving.**
+<!---  💻 Passionate about **programming**, **problem-solving.** -->
 
 
 ### 🛠️ Tech Stack
@@ -24,25 +24,22 @@
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-
 </p>
 
 
-### 📫 Let's Connect!
-- [LinkedIn](https://www.linkedin.com/in/musfique-anam/)
+<!--### 📫 Let's Connect!
 -  musfique.contact@gmail.com 
-
 
 ### 🎯 Fun Facts
 - 🎯 I love solving puzzles like Rubik's Cube (3x3), Pyraminx.  
 - ⚡ Outside of coding, I enjoy exploring new skills.
 
-<br>😊 Nickname : **Ananto**</br>
+<br>😊 Nickname : **Ananto**</br> 
  
  
  📍 Based in **Bangladesh**
 
-🌱 _"Always learning and growing."_ 
+🌱 _"Always learning and growing."_ -->
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=musfique-anam&layout=compact&theme=tokyonight)
 
