@@ -3,7 +3,7 @@
 
 <!--### 🎓 *Computer Science Enthusiast*  👋-->
 
-![Profile Views](https://komarev.com/ghpvc/?username=musfique-anam&color=blue&style=flat)
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=musfique-anam&color=blue&style=flat) -->
 
 ### 🔍 About Me
 - 🎓 Currently pursuing a **Bachelor's in Computer Science & Engineering** 
