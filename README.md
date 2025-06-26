@@ -24,7 +24,7 @@
 
 
 <!--### 📫 Let's Connect!
--  musfique.contact@gmail.com 
+-  musfique.contact@gmail.com -->
 
 ### 🎯 Fun Facts
 - 🎯 I love solving puzzles like Rubik's Cube (3x3), Pyraminx.  
