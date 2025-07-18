@@ -3,7 +3,7 @@
 
 <p align="center">
     <!-- competitive programmer •  graphic designer -->
-    CSE Student •  Competitive programmer
+    ML Enthusiast •  Competitive Programmer
 </p>
 
 <div align="center">
