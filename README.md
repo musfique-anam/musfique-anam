@@ -3,7 +3,7 @@
 
 <p align="center">
     <!-- competitive programmer •  graphic designer -->
-    ML Enthusiast •  Competitive Programmer
+    Computer Vision Enthusiast •  Competitive Programmer
 </p>
 
 <div align="center">
